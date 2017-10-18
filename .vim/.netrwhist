@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/kenshin/workspace/NSRL-dns/code/src/xdns-webeng/src/hbase_handler'
+let g:netrw_dirhist_2='/Users/kenshin/workspace/NSRL-dns/tools/ipinfo'
+let g:netrw_dirhist_3='/Users/kenshin/workspace/c'
+let g:netrw_dirhist_4='/Users/kenshin/workspace/gogo/src/github.com/gophish/gophish/config'
